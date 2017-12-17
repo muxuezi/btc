@@ -1,0 +1,4 @@
+pygal
+pycairo
+cairocffi
+cairosvg
